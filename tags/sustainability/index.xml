@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Power Plant Decarbonization</title>
+      <link>/project/power-plant-decarbonization/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/project/power-plant-decarbonization/</guid>
+      <description>The project presents a novel integrated assessment model by combining bottom-up techno-economic model, metamodel, vintage stock model, and technology learning curve, based on updated aggregated plant-level data. Essentially, this study answers the following questions: What are the practical limits that various techniques could provide in fossil fuel power plant decarbonization (e.g. ton CO2 reduction)? How much are the corresponding change of levelized cost of electricity (e.g. $ per MWh electricity) and CO2 mitigation costs (e.</description>
+    </item>
     
     <item>
       <title>Eco Industrial Park</title>

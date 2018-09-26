@@ -21,5 +21,14 @@
       <description>Understanding the underlying dynamics of building energy consumption is the very firrst step towards energy saving in building sector; as a powerful tool for knowledge discovery, data mining is being applied to this domain more and more frequently. However, most previous researchers focus on model development during the pipeline of data mining, with feature engineering simply being overlooked. To fill this gap, three different feature engineering approaches, namely Exploratory Data Analysis (EDA) as a feature visualization method, Random Forest (RF) as a feature selection method and Principal Component Analysis (PCA) as a feature extraction method, are investigated in the paper.</description>
     </item>
     
+    <item>
+      <title>Power Plant Decarbonization</title>
+      <link>/project/power-plant-decarbonization/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/project/power-plant-decarbonization/</guid>
+      <description>The project presents a novel integrated assessment model by combining bottom-up techno-economic model, metamodel, vintage stock model, and technology learning curve, based on updated aggregated plant-level data. Essentially, this study answers the following questions: What are the practical limits that various techniques could provide in fossil fuel power plant decarbonization (e.g. ton CO2 reduction)? How much are the corresponding change of levelized cost of electricity (e.g. $ per MWh electricity) and CO2 mitigation costs (e.</description>
+    </item>
+    
   </channel>
 </rss>
