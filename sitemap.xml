@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/project/ontology-development/</loc>
+      <lastmod>2018-09-30T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/building-energy-data-mining/</loc>
       <lastmod>2018-09-26T00:00:00+08:00</lastmod>
     </url>
@@ -225,7 +233,7 @@
     <url>
     
       <loc>/tags/machine-learning/</loc>
-      <lastmod>2018-09-26T00:00:00+08:00</lastmod>
+      <lastmod>2018-09-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -234,7 +242,7 @@
     <url>
     
       <loc>/tags/modeling/</loc>
-      <lastmod>2018-09-26T00:00:00+08:00</lastmod>
+      <lastmod>2018-09-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -243,7 +251,7 @@
     <url>
     
       <loc>/tags/optimization/</loc>
-      <lastmod>2018-09-15T00:00:00+08:00</lastmod>
+      <lastmod>2018-09-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -252,7 +260,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-09-26T00:00:00+08:00</lastmod>
+      <lastmod>2018-09-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
