@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>Energy: the importance of system analysis</title>
       <link>/post/energy-system/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/post/energy-system/</guid>
-      <description>In scientific community, a very question people like to ask each other is “what do you do” or “what is your research about”. Interestingly, every time I said “I work on energy” or something like that, I was in trouble. Depending on the background of your fellow, they may have quite different perspectives on what energy is and what is energy research about: if you are talking to material scientist, they could think energy is all about developing better electrode materials which could result in high-performance batteries; if you are talking to chemist, they might think energy is basically about finding novel catalysts or reaction path which would turn CO2 into fossil fuels (this is exactly my girlfriend does); if you are talking to electric engineers, they might think energy is about resilient power grid which could accommodate more renewable generation; and so on so force.</description>
+      <description>Promoting systematic thinking in energy innovation is critical.</description>
     </item>
     
   </channel>

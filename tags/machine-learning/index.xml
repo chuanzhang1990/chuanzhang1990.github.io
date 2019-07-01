@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,19 @@
     <item>
       <title>Ontology development</title>
       <link>/project/ontology-development/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/ontology-development/</guid>
-      <description>In the future scenario of Industrial 4.0 and IoT, information exchange could be totally different from what it is now. The current data integration approaches that need large-scale human intervention will not be suitable in such application contexts. Considering the fact that vast and heterogeneous data exists in future, traditional human-based approaches may need to deal with large amount of information every day, which would result in huge human resources to be consumed.</description>
+      <description>Ontological representation of information is important for data integration</description>
     </item>
     
     <item>
       <title>Building Energy Data Mining</title>
       <link>/project/building-energy-data-mining/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/building-energy-data-mining/</guid>
-      <description>Understanding the underlying dynamics of building energy consumption is the very firrst step towards energy saving in building sector; as a powerful tool for knowledge discovery, data mining is being applied to this domain more and more frequently. However, most previous researchers focus on model development during the pipeline of data mining, with feature engineering simply being overlooked. To fill this gap, three different feature engineering approaches, namely Exploratory Data Analysis (EDA) as a feature visualization method, Random Forest (RF) as a feature selection method and Principal Component Analysis (PCA) as a feature extraction method, are investigated in the paper.</description>
+      <description>Understanding the underlying dynamics of building energy consumption through data mining</description>
     </item>
     
   </channel>
