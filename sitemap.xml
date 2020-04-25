@@ -13,7 +13,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2020-04-24T00:00:00-04:00</lastmod>
+      <lastmod>2020-04-20T11:27:35+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -57,7 +57,7 @@
     <url>
     
       <loc>/tags/energy-system/</loc>
-      <lastmod>2020-04-24T00:00:00-04:00</lastmod>
+      <lastmod>2020-03-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -92,7 +92,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2020-04-24T00:00:00-04:00</lastmod>
+      <lastmod>2020-03-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -111,6 +111,14 @@
     
       <loc>/post/digitalization_energy_transition/</loc>
       <lastmod>2020-03-24T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/macro-energy-system/</loc>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -152,14 +160,6 @@
     
       <loc>/publication/2019_combined_cycle_dispatch-copy/</loc>
       <lastmod>2019-02-08T11:27:35+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/macro-energy-system/</loc>
-      <lastmod>2020-04-24T00:00:00-04:00</lastmod>
     </url>
     
   
