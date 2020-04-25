@@ -14,20 +14,11 @@
     
     <item>
       <title>Power Plant Decarbonization</title>
-      <link>/project/power-plant-decarbonization/</link>
+      <link>/project/fossil-fuel-power-plant-decarbonization/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/power-plant-decarbonization/</guid>
+      <guid>/project/fossil-fuel-power-plant-decarbonization/</guid>
       <description>Potential assessment of fossil fuel power plant CO2 emission reduction with different decarbonization technologies</description>
-    </item>
-    
-    <item>
-      <title>Eco Industrial Park</title>
-      <link>/project/eco-industrial-park/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/eco-industrial-park/</guid>
-      <description>Improving energy system efficiency in eco-industiral park through modelling and optimization</description>
     </item>
     
   </channel>

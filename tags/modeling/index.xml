@@ -14,28 +14,19 @@
     
     <item>
       <title>Ontology development</title>
-      <link>/project/ontology-development/</link>
+      <link>/project/energy-informatics/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/ontology-development/</guid>
+      <guid>/project/energy-informatics/</guid>
       <description>Ontological representation of information is important for data integration</description>
     </item>
     
     <item>
-      <title>Building Energy Data Mining</title>
-      <link>/project/building-energy-data-mining/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/building-energy-data-mining/</guid>
-      <description>Understanding the underlying dynamics of building energy consumption through data mining</description>
-    </item>
-    
-    <item>
       <title>Power Plant Decarbonization</title>
-      <link>/project/power-plant-decarbonization/</link>
+      <link>/project/fossil-fuel-power-plant-decarbonization/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/power-plant-decarbonization/</guid>
+      <guid>/project/fossil-fuel-power-plant-decarbonization/</guid>
       <description>Potential assessment of fossil fuel power plant CO2 emission reduction with different decarbonization technologies</description>
     </item>
     

@@ -14,20 +14,11 @@
     
     <item>
       <title>Ontology development</title>
-      <link>/project/ontology-development/</link>
+      <link>/project/energy-informatics/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/ontology-development/</guid>
+      <guid>/project/energy-informatics/</guid>
       <description>Ontological representation of information is important for data integration</description>
-    </item>
-    
-    <item>
-      <title>Eco Industrial Park</title>
-      <link>/project/eco-industrial-park/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/eco-industrial-park/</guid>
-      <description>Improving energy system efficiency in eco-industiral park through modelling and optimization</description>
     </item>
     
   </channel>

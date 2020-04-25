@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Chuan Zhang</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in AI on Chuan Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supercharging energy system decarbonisation through AI</title>
+      <link>/post/digitalization_energy_transition/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/post/digitalization_energy_transition/</guid>
+      <description>Digital tools could reduce carbon emissions from energy system by more than half.</description>
+    </item>
+    
+    <item>
+      <title>Digitalization and Energy Transition</title>
+      <link>/project/digitalization-and-energy-transition/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/digitalization-and-energy-transition/</guid>
+      <description>Supercharging decarbonisation through intelligent AI technologies</description>
+    </item>
+    
+    <item>
+      <title>Residential Energy Forecast</title>
+      <link>/project/residential-energy-use-forecast/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/residential-energy-use-forecast/</guid>
+      <description>Understanding the underlying dynamics of building energy consumption through data mining</description>
+    </item>
+    
+    <item>
+      <title>Energy informatics</title>
+      <link>/project/energy-informatics/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/project/energy-informatics/</guid>
+      <description>Energy informatics for efficient energy management system</description>
+    </item>
+    
+  </channel>
+</rss>

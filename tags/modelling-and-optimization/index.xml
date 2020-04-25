@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelling and Optimization on Chuan Zhang</title>
+    <link>/tags/modelling-and-optimization/</link>
+    <description>Recent content in Modelling and Optimization on Chuan Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/modelling-and-optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Net Zero America Project</title>
+      <link>/project/net-zero-america-project/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/project/net-zero-america-project/</guid>
+      <description>Identify pathways to accelerate decarbonization of US national energy system</description>
+    </item>
+    
+    <item>
+      <title>PJM Grid Modelling</title>
+      <link>/project/pjm-decarbonization/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/pjm-decarbonization/</guid>
+      <description>Technologies, policies, market designs and planning strategies decarbonize PJM</description>
+    </item>
+    
+    <item>
+      <title>Power Plant Decarbonization</title>
+      <link>/project/fossil-fuel-power-plant-decarbonization/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/fossil-fuel-power-plant-decarbonization/</guid>
+      <description>Potential assessment of fossil fuel power plant CO2 emission reduction with different decarbonization technologies</description>
+    </item>
+    
+    <item>
+      <title>Residential Energy Forecast</title>
+      <link>/project/residential-energy-use-forecast/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/residential-energy-use-forecast/</guid>
+      <description>Understanding the underlying dynamics of building energy consumption through data mining</description>
+    </item>
+    
+    <item>
+      <title>Eco Industrial Park</title>
+      <link>/project/eco-industrial-park/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/eco-industrial-park/</guid>
+      <description>Improving energy system efficiency in eco-industiral park through modelling and optimization</description>
+    </item>
+    
+  </channel>
+</rss>

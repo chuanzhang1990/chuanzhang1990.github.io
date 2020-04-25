@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decarbonization on Chuan Zhang</title>
+    <link>/tags/decarbonization/</link>
+    <description>Recent content in Decarbonization on Chuan Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/decarbonization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Net Zero America Project</title>
+      <link>/project/net-zero-america-project/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/project/net-zero-america-project/</guid>
+      <description>Identify pathways to accelerate decarbonization of US national energy system</description>
+    </item>
+    
+    <item>
+      <title>Digitalization and Energy Transition</title>
+      <link>/project/digitalization-and-energy-transition/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/digitalization-and-energy-transition/</guid>
+      <description>Supercharging decarbonisation through intelligent AI technologies</description>
+    </item>
+    
+    <item>
+      <title>Power Plant Decarbonization</title>
+      <link>/project/fossil-fuel-power-plant-decarbonization/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/fossil-fuel-power-plant-decarbonization/</guid>
+      <description>Potential assessment of fossil fuel power plant CO2 emission reduction with different decarbonization technologies</description>
+    </item>
+    
+    <item>
+      <title>Energy informatics</title>
+      <link>/project/energy-informatics/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/project/energy-informatics/</guid>
+      <description>Energy informatics for efficient energy management system</description>
+    </item>
+    
+    <item>
+      <title>Eco Industrial Park</title>
+      <link>/project/eco-industrial-park/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/eco-industrial-park/</guid>
+      <description>Improving energy system efficiency in eco-industiral park through modelling and optimization</description>
+    </item>
+    
+  </channel>
+</rss>

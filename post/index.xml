@@ -13,12 +13,21 @@
     
     
     <item>
-      <title>Energy: the importance of system analysis</title>
-      <link>/post/energy-system/</link>
+      <title>Supercharging energy system decarbonisation through AI</title>
+      <link>/post/digitalization_energy_transition/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/post/digitalization_energy_transition/</guid>
+      <description>Digital tools could reduce carbon emissions from energy system by more than half.</description>
+    </item>
+    
+    <item>
+      <title>Macro-Energy System: A New Discipline fo Energy Transition</title>
+      <link>/post/macro-energy-system/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/post/energy-system/</guid>
-      <description>Promoting systematic thinking in energy innovation is critical.</description>
+      <guid>/post/macro-energy-system/</guid>
+      <description>Promoting macro-energy system analysis in energy transition is critical.</description>
     </item>
     
   </channel>
