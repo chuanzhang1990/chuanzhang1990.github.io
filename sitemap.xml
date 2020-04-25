@@ -100,16 +100,8 @@
     
     <url>
     
-      <loc>/post/macro-energy-system/</loc>
-      <lastmod>2020-03-24T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/ai/</loc>
-      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <lastmod>2020-03-24T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,6 +110,14 @@
     <url>
     
       <loc>/post/digitalization_energy_transition/</loc>
+      <lastmod>2020-03-24T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/macro-energy-system/</loc>
       <lastmod>2020-02-24T00:00:00-05:00</lastmod>
     </url>
     
