@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>Supercharging energy system decarbonisation through AI</title>
-      <link>/post/digitalization_energy_transition/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 -0400</pubDate>
-      
-      <guid>/post/digitalization_energy_transition/</guid>
-      <description>Digital tools could reduce carbon emissions from energy system by more than half.</description>
-    </item>
-    
-    <item>
       <title>Macro-Energy System: A New Discipline fo Energy Transition</title>
       <link>/post/macro-energy-system/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 -0400</pubDate>
       
       <guid>/post/macro-energy-system/</guid>
       <description>Promoting macro-energy system analysis in energy transition is critical.</description>
+    </item>
+    
+    <item>
+      <title>Supercharging energy system decarbonisation through AI</title>
+      <link>/post/digitalization_energy_transition/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/post/digitalization_energy_transition/</guid>
+      <description>Digital tools could reduce carbon emissions from energy system by more than half.</description>
     </item>
     
   </channel>

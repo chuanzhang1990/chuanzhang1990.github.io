@@ -39,9 +39,29 @@
     </item>
     
     <item>
+      <title>Macro-Energy System: A New Discipline fo Energy Transition</title>
+      <link>/post/macro-energy-system/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/post/macro-energy-system/</guid>
+      <description>&lt;p&gt;In scientific community, a very question people like to ask each other is “what do you do” or “what is your research about”. Interestingly, every time I said “I work on energy” or something like that, I was in trouble. Depending on the background of your fellow, they may have quite different perspectives on what energy is and what is energy research about: if you are talking to material scientist, they could think energy is all about developing better electrode materials which could result in high-performance batteries; if you are talking to chemist, they might think energy is basically about finding novel catalysts or reaction path which would turn CO2 into fossil fuels (this is exactly my girlfriend does); if you are talking to electric engineers, they might think energy is about resilient power grid which could accommodate more renewable generation; and so on so force. They are all correct in the sense that if they manage to fully unleash their research potential at industrial scale, the energy trilemma could be largely tackled. However, we have to admit that although scientists worldwide have achieved impressive progresses in these domains, the overall landscape of energy conversion and utilization has not changed much since industrial revolution.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/sankey_diagram1.png&#34; alt=&#34;sankey_diagram&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sankey diagram of 2019 energy use in U.S. clearly shows that the bulk of global energy consumption still comes from fossil fuel.However, in pathways limiting global warming to 1.5oC, global total CO2 emission are reduced to net zero around 2050. In such a context, it becomes very important to unleash the potential from intra-system re-innovation, I mean together with fundamental changes of component level performance leap, some priority should be given to system level design and optimization which would make the performance of each single component at their best value. Of course, this is not easy because on one side, the energy system landscape (what technologies are used, how they are designed and operated etc.) has been there for decades with high techno-institutional inertial that are quite difficult to overcome; on the other side, I think this research direction has not been paid much attention compared to other aspects. A key lesson I have learned from my energy system study is the complexity and interdisciplinary nature of energy transition. Factors that can accelerate the decarbonization of energy system are diverse, including industrial bottlenecks (technological challenges, natural resource availability and constraints in material supplies and manufacturing capacity), regulatory limitations, economic forces and fiscal constraints, political constraints and goal, collective action problems, consumer preferences and fears, lack of public acceptance, rational and irrational influences on public and private investment decisions, and others. Solving these intertwined challenges will requires co-analysis of economic, engineering, environmental, and social factors that originated from many fields spanning the natural, social, and engineering, sciences. The chanllenge is amplified by the fact that there is no scientific community that specialized on this topic, energy researchers are from various backgrounds with their own basis, so they only justify the soundness of their disciplinary basis. In a recent paper on &lt;em&gt;Joule&lt;/em&gt;journal, some researchers from Stanford University address this issue. In the paper, they proposed a new terminology for the science of energy transition, which require multi-disciplinary innovations across multi-scale in the energy system landscape. I personally could not agree more and again, I really think promoting systematic analysis in energy transition would be critical for the success of solving such grand chanllenges for human beings. I here call for more attention to this exciting new research area.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/macro_energy_system.jpg&#34; alt=&#34;macro_energy_system&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Reference&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Patricia J. Levi, Simon Davidsson Kurland, Michael Carbajales-Dale, John P. Weyant, Adam R. Brandt, Sally M. Benson, Macro-Energy Systems: Toward a New Discipline, &lt;em&gt;Joule&lt;/em&gt;, Volume 3, Issue 10, 2019, Pages 2282-2286, ISSN 2542-4351, DOI: &lt;a href=&#34;https://doi.org/10.1016/j.joule.2019.07.017&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.joule.2019.07.017&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Supercharging energy system decarbonisation through AI</title>
       <link>/post/digitalization_energy_transition/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>/post/digitalization_energy_transition/</guid>
       <description>&lt;p&gt;Integrating digital tools into the world’s energy systems could reduce carbon emissions by more than 50 per cent, a recent review has found. Decarbonising the world’s energy systems is a crucial part of mitigating climate change through the reduction of greenhouse gas emissions. While decarbonisation is non-negotiable if climate breakdown is to be halted, it must be balanced with ensuring economic stability and a smooth transition to sustainable energy. Digital technologies such as big data, machine learning and the Internet of Things hold immense potential to help us meet this challenge. Their applications range from helping to reduce our power bills by employing smart meters in the home, to assisting with peer-to-peer energy trading between power stations via blockchain.&lt;/p&gt;
@@ -57,26 +77,6 @@
 &lt;p&gt;&lt;b&gt;Reference&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Oliver Inderwildi, Chuan Zhang, Xiaonan Wang, and Markus Kraft. The Impact of Intelligent Cyber-Physical Systems on the Decarbonization of Energy, &lt;em&gt;Energy &amp;amp; Environmental Science&lt;/em&gt;, Volume 13, 2020, Pages 744-771, DOI: &lt;a href=&#34;https://doi.org/10.1039/C9EE01919G&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1039/C9EE01919G&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Macro-Energy System: A New Discipline fo Energy Transition</title>
-      <link>/post/macro-energy-system/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
-      
-      <guid>/post/macro-energy-system/</guid>
-      <description>&lt;p&gt;In scientific community, a very question people like to ask each other is “what do you do” or “what is your research about”. Interestingly, every time I said “I work on energy” or something like that, I was in trouble. Depending on the background of your fellow, they may have quite different perspectives on what energy is and what is energy research about: if you are talking to material scientist, they could think energy is all about developing better electrode materials which could result in high-performance batteries; if you are talking to chemist, they might think energy is basically about finding novel catalysts or reaction path which would turn CO2 into fossil fuels (this is exactly my girlfriend does); if you are talking to electric engineers, they might think energy is about resilient power grid which could accommodate more renewable generation; and so on so force. They are all correct in the sense that if they manage to fully unleash their research potential at industrial scale, the energy trilemma could be largely tackled. However, we have to admit that although scientists worldwide have achieved impressive progresses in these domains, the overall landscape of energy conversion and utilization has not changed much since industrial revolution.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/sankey_diagram1.png&#34; alt=&#34;sankey_diagram&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Sankey diagram of 2019 energy use in U.S. clearly shows that the bulk of global energy consumption still comes from fossil fuel.However, in pathways limiting global warming to 1.5oC, global total CO2 emission are reduced to net zero around 2050. In such a context, it becomes very important to unleash the potential from intra-system re-innovation, I mean together with fundamental changes of component level performance leap, some priority should be given to system level design and optimization which would make the performance of each single component at their best value. Of course, this is not easy because on one side, the energy system landscape (what technologies are used, how they are designed and operated etc.) has been there for decades with high techno-institutional inertial that are quite difficult to overcome; on the other side, I think this research direction has not been paid much attention compared to other aspects. A key lesson I have learned from my energy system study is the complexity and interdisciplinary nature of energy transition. Factors that can accelerate the decarbonization of energy system are diverse, including industrial bottlenecks (technological challenges, natural resource availability and constraints in material supplies and manufacturing capacity), regulatory limitations, economic forces and fiscal constraints, political constraints and goal, collective action problems, consumer preferences and fears, lack of public acceptance, rational and irrational influences on public and private investment decisions, and others. Solving these intertwined challenges will requires co-analysis of economic, engineering, environmental, and social factors that originated from many fields spanning the natural, social, and engineering, sciences. The chanllenge is amplified by the fact that there is no scientific community that specialized on this topic, energy researchers are from various backgrounds with their own basis, so they only justify the soundness of their disciplinary basis. In a recent paper on &lt;em&gt;Joule&lt;/em&gt;journal, some researchers from Stanford University address this issue. In the paper, they proposed a new terminology for the science of energy transition, which require multi-disciplinary innovations across multi-scale in the energy system landscape. I personally could not agree more and again, I really think promoting systematic analysis in energy transition would be critical for the success of solving such grand chanllenges for human beings. I here call for more attention to this exciting new research area.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/macro_energy_system.jpg&#34; alt=&#34;macro_energy_system&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Reference&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Patricia J. Levi, Simon Davidsson Kurland, Michael Carbajales-Dale, John P. Weyant, Adam R. Brandt, Sally M. Benson, Macro-Energy Systems: Toward a New Discipline, &lt;em&gt;Joule&lt;/em&gt;, Volume 3, Issue 10, 2019, Pages 2282-2286, ISSN 2542-4351, DOI: &lt;a href=&#34;https://doi.org/10.1016/j.joule.2019.07.017&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.joule.2019.07.017&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
